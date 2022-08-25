@@ -152,8 +152,8 @@
                                         <strong>Verifique la casilla "No soy un robot."</strong>
                                     </div>
                                     <div class="g-recaptcha-outer">
-                                        <div class="g-recaptcha"
-                                            data-sitekey="6LfcOqchAAAAANlcwGgBl__-Uh6LG0yuzbO_3GzX">
+                                        <div class="g-recaptcha" data-sitekey="6LfcOqchAAAAANlcwGgBl__-Uh6LG0yuzbO_3GzX"
+                                            style="transform:scale(0.77);-webkit-transform:scale(.9);transform-origin:0 0;-webkit-transform-origin:0 0;">
                                         </div>
                                     </div>
                                 </form>
